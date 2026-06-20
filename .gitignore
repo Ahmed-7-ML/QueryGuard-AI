@@ -11,6 +11,7 @@ ENV/
 env/
 # Poetry environment custom paths (if not in-project)
 .poetry/
+.lock
 
 # --- Python Cache & Compiled Files ---
 __pycache__/
@@ -48,6 +49,3 @@ $RECYCLE.BIN/
 # --- Application Specific ---
 # Streamlit local configurations
 .streamlit/config.toml
-
-
-poetry.lock
