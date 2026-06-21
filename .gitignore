@@ -48,7 +48,3 @@ $RECYCLE.BIN/
 # --- Application Specific ---
 # Streamlit local configurations
 .streamlit/config.toml
-
-login.png
-admin.png
-user.png
